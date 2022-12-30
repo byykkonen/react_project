@@ -1,1 +1,1 @@
-# react_project
+# React_Pokemon_Index
